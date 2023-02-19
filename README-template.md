@@ -1,31 +1,24 @@
-# Frontend Mentor - Stats preview card component solution
+# Frontend Mentor - Stats-Preview Card Solution
 
-This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). 
+This is a solution to the [Stats-Preview Card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62/hub).
 
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
+
 ## Overview
-
-### The challenge
-
-Users should be able to:
-
-- View the optimal layout depending on their device's screen size
-
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Stats-Preview-Card Solution](https://www.frontendmentor.io/solutions/responsive-qr-code-challenge-using-html-and-css-NOPJWObvgs)
+- Live Site URL: [Live site URL](https://atharva-0710.github.io/
+Stats-Preview-Card/)
 
 ## My process
 
@@ -33,24 +26,21 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
-
+- Flexbox 
 
 ### What I learned
 
-This project is really good for the people who just want to brush up the basics and also just go through the concept of responsive website using pure html and css.
+This project helped me to brush up my basics of HTML and CSS and also helped me to improve my css skills which are needed while making the website responsive.
 
 
 ### Useful resources
 
-- [w3Schools](https://www.w3schools.com/) 
-- [mdndocs](https://developer.mozilla.org/en-US/) 
-The above 2 websites are one of the best resources out there on internet. It helped me when I was making the website responsive.
+- [MDN docs](https://developer.mozilla.org) - This helped me for understanding how border-radius property works. I really liked there way of explaining.
+- [w3schools](https://www.w3schools.com) - This website has amazing article which helped me finally understand centering my section. I'd recommend it to anyone who are beginners to front-end development.
+
 
 
 ## Author
 
 - Website - [Atharva Gaikwad](https://www.your-site.com)
-- Frontend Mentor - [@Atharva-0710](https://www.frontendmentor.io/profile/Atharva-0710)
-
-
+- Frontend Mentor - [@Atharva-0710](https://www.frontendmentor.io/profile/@Atharva-0710)
