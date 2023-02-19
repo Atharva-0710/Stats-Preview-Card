@@ -17,7 +17,7 @@ This is a solution to the [Stats-Preview Card component challenge on Frontend Me
 ### Links
 
 - Solution URL: [Stats-Preview-Card Solution](https://www.frontendmentor.io/solutions/responsive-qr-code-challenge-using-html-and-css-NOPJWObvgs)
-- Live Site URL: [Live site URL](https://atharva-0710.github.io/
+- Live Site URL: [Live site URL](https://atharva-0710.github.io/Stats-Preview-Card/)
 Stats-Preview-Card/)
 
 ## My process
